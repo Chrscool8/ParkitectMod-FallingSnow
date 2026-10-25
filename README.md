@@ -1,0 +1,55 @@
+# Falling Snow
+
+<img src="preview.png" alt="Falling Snow" width="400">
+
+Rain turns into snow when it's below freezing. Storms turn into blizzards. Have fun!
+
+**[Get it on the Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2866424079)**
+
+## Description
+
+Let it snow, I guess.
+
+When it rains in your park and the temperature is below 0°C, you get snow instead. Falls over the whole park, no assets or anything to place. When it warms back up, it fades out and the rain comes back.
+
+## How to Use
+
+- Just turn it on. Next time it rains while it's below freezing, it snows.
+- Rainy weather is a regular snowfall. Stormy weather is a blizzard: more snow, falling faster, blown sideways by the wind. Lightning still happens (thundersnow!).
+- Mod settings have a Snow amount slider and a Snow below slider if you want it to snow at a different temperature.
+- Wanna see it right away? Open the F12 cheats menu. There's a new temperature box under the weather buttons. Click Rainy or Stormy, then set the temperature below 0 and hit Set.
+
+## Features
+
+- Snow everywhere it would rain, made totally in code.
+- No rain sounds, raindrops on the camera, or wet shiny ground while it's snowing.
+- Switches between rain and snow on its own if the temperature changes mid-storm.
+- Follows the game's Rain effect graphics setting.
+- Temperature cheat in the F12 menu (works in your units, °C or °F).
+
+## Compatibility
+
+- Multiplayer: it's just visuals, so not everyone needs it. The temperature cheat is turned off in multiplayer though, since the game doesn't sync temperature between players.
+
+## Updates
+
+### 26/10/25
+
+- REWRITE! Rebuilt from scratch.
+- Blizzards! Storms now get heavier, faster, windy snow.
+- Snow covers the whole park evenly and is already falling when it starts, instead of slowly trickling down.
+- Fades in and out instead of popping, and switches back to rain if it warms up.
+- No more rain sounds, camera drops, or wet ground while it's snowing.
+- Snow amount and temperature settings.
+- Temperature box added to the F12 cheats menu, for testing or just for fun.
+- Fixed old snow never getting cleaned up after each cold rain.
+- Updated for the latest Parkitect version.
+
+### 22/09/22
+
+- 0.56: Errors fixed, I think!
+- 0.5: Initial release. A WIP to bring a little life to your winter wonderland.
+
+## You Want to Support Me?
+
+Well, gee, thanks! These projects take a LOT of time and effort, but I don't ask for any monetary compensation for any of my work, and I never plan to. That said, if you're feeling generous, and you wanna toss me whatever you feel is reasonable, you can visit my [Ko-fi page](https://ko-fi.com/chrisbradel) so that I can afford to spend more time on fun projects like these.
