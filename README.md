@@ -1,4 +1,4 @@
-# Falling Snow
+# Falling Snow (Weather Addon) - Parkitect Mod
 
 <img src="preview.png" alt="Falling Snow" width="400">
 
